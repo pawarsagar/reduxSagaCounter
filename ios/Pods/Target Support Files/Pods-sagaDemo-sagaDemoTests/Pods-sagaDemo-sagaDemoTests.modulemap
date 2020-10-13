@@ -1,0 +1,6 @@
+module Pods_sagaDemo_sagaDemoTests {
+  umbrella header "Pods-sagaDemo-sagaDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
